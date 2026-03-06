@@ -33,13 +33,27 @@ TEMs around the world
 * **Resolution:** 0.34 nm (point-to-point), 0.2 nm (line)
 * **Detectors/Cameras:** TVIPS F415MP 4k Camera or Gatan Ultrascan1000 4MP CCD
 
+### Titan Krios G4 TEM
+* **Acceleration Voltage:** 300 kV
+* **Electron Source:** Cold Field Emission Gun (E-CFEG)
+* **Lenses:** 3 Condenser Lens Parallel Beam Zoom
+* **Resolution:** 1.2 Å (information limit)
+* **Detectors/Cameras:** Falcon 4i Camera
+
+* ### T20 iCorr TEM
+* **Acceleration Voltage:** 40 to 200kV
+* **Electron Source:** LaB6 gun
+* **Lenses:** TWIN PP Objective Lens
+* **Resolution:** 0.34 nm (point-to-point), 0.2 nm (line)
+* **Detectors/Cameras:** Gatan Ultrascan US4000 4k Camera
+
 # USC
 ## Core Center of Excellence in Nano Imaging (CNI)
 ### JEOL JEM-2100F TEM
 * **Electron Source:** Thermal field emission source
 * **Lenses:** High-resolution pole-piece (HRP)
 * **Resolution:** 230 pm in TEM mode and 160 pm in STEM mode
-* **Detectors/Cameras:** Orius Pre-GIF camera, Gatan UltraScan 1000 Post-GIF camera
+* **Detectors/Cameras:** Gatan Ultrascan US4000 4k Camera
 * **Spectroscopy:** Electron energy loss spectroscopy (Quantum SE GIF) and x-ray spectroscopy (Oxford X-MaxN 100 TLE Windowless SDD)
 
 ### Thermo Fisher Titan Krios Cryo-TEM
