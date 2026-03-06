@@ -67,8 +67,8 @@ TEMs around the world
 * **Detectors/Cameras:** 1st Gen Mono
 * **Operation:** Quantum GIF
 
-# CEA Grenoble
-## IRIG
+# Test
+## Test
 ### NeoARM
 * **Application:** 1st Gen Probe Corrector
 * **Detectors/Cameras:** 1st Gen Mono
