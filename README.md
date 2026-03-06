@@ -40,7 +40,7 @@ TEMs around the world
 * **Resolution:** 1.2 Å (information limit)
 * **Detectors/Cameras:** Falcon 4i Camera
 
-* ### T20 iCorr TEM
+### T20 iCorr TEM
 * **Acceleration Voltage:** 40 to 200kV
 * **Electron Source:** LaB6 gun
 * **Lenses:** TWIN PP Objective Lens
