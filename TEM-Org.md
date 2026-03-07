@@ -46,7 +46,6 @@ TEMs around the world
 * **Lenses:** C-TWIN Lens (Gap = 11 mm, Cs = 2.7 mm)
 * **Detectors/Cameras:** Falcon 3 counting camera or Ceta-D high-speed camera
 
-# UCLA
 ## Chemistry TEM Facility
 ### Talos F200C G2 TEM
 * **Acceleration Voltage:** 200 kV
