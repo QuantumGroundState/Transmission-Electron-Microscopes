@@ -19,13 +19,6 @@ TEMs around the world
 * **Detectors/Cameras:** Direct Electron DE64 Camera with 4DSTEM package, Gatan Ultrascan US1000 2K digital camera
 * **Spectroscopy:** Oxford X-MaxN 100TLE 100 mm2 SDD for TEM (EDS)
 
-### Talos F200C G2 TEM
-* **Acceleration Voltage:** 200 kV
-* **Electron Source:** Thermionic 
-* **Lenses:** C-Twin pole piece gap
-* **Resolution:** 1-2 nanometers
-* **Detectors/Cameras:** Thermo Scientific Ceta 16M and Ceta-D CMOS cameras optimized for low-dose diffraction
-
 ### T12 TEM / Quick CryoEM (Tecnai)
 * **Acceleration Voltage:** 20 to 120 kV
 * **Electron Source:** LaB6 gun
@@ -46,6 +39,21 @@ TEMs around the world
 * **Lenses:** TWIN PP Objective Lens
 * **Resolution:** 0.34 nm (point-to-point), 0.2 nm (line)
 * **Detectors/Cameras:** Gatan Ultrascan US4000 4k Camera
+
+### BioPACIFIC Spectra 300C
+* **Acceleration Voltage:** 30, 60, 120 to 300 kV
+* **Electron Source:** X-CFEG Cold Field Emission Gun
+* **Lenses:** C-TWIN Lens (Gap = 11 mm, Cs = 2.7 mm)
+* **Detectors/Cameras:** Falcon 3 counting camera or Ceta-D high-speed camera
+
+## UCLA
+## Chemistry TEM Facility
+### Talos F200C G2 TEM
+* **Acceleration Voltage:** 200 kV
+* **Electron Source:** Thermionic 
+* **Lenses:** C-Twin pole piece gap
+* **Resolution:** 1-2 nanometers
+* **Detectors/Cameras:** Thermo Scientific Ceta 16M and Ceta-D CMOS cameras optimized for low-dose diffraction
 
 # USC
 ## Core Center of Excellence in Nano Imaging (CNI)
